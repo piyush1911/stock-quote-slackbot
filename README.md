@@ -44,7 +44,7 @@ In both cases, the trigger word must be the first word in the message. It is not
 1. Download stockbot
 
   ````
-  git https://github.com/NosajGithub/stock-quote-slackbot.git
+  git clone https://github.com/NosajGithub/stock-quote-slackbot.git stock-quote-slackbot
   cd stock-quote-slackbot
   ````
 
