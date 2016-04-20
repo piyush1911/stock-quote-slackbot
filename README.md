@@ -59,7 +59,7 @@ In both cases, the trigger word must be the first word in the message. It is not
  Also, pick a trigger word in the rtmbot.conf file.
 
   ````
-  cp example-config/rtmbot.conf .
+  cp rtmbot.conf.example rtmbot.conf .
   vi rtmbot.conf
   SLACK_TOKEN: "xoxb-11111111111-222222222222222"
   TRIGGER_WORD: "quote"
